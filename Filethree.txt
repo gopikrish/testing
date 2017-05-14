@@ -1,1 +1,2 @@
- This is third file added 
+ This is third file added
+ This is new feature that is to be added in the feature branch
