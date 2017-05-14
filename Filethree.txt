@@ -1,3 +1,8 @@
+
  This is third file added 
  This is new feature added on the file three of the master branch
+
+
+
+ This is new feature that is to be added in the feature branch
 
