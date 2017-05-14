@@ -1,1 +1,12 @@
- This is mysecond file commit
+This is second file commit
+
+This is the new method to be added 
+public void method1() 
+{
+// Comments for the first method
+}
+This is the second menthod to be added
+public void method2() 
+{
+// Comments for the second method
+}fu
