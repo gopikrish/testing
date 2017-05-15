@@ -1,3 +1,4 @@
+
 This is second file commit
 
 This is the new method to be added 
@@ -10,3 +11,14 @@ public void method2()
 {
 // Comments for the second method
 }fu
+
+
+This is the fine two. Adding few lines in the file
+This is change that is done in master for adding a new feature
+
+
+This is the new feature that is to added in the file two of the feature branch
+Try to use the fetch operation, I am coding in file two of the master branch
+
+This is the chnage being dine in the naster branch	
+
